@@ -1,6 +1,6 @@
 # First semester
 
-Folder contains solutions to assigments I was working on during first semester of CS studies.
+Folder contains solutions to assigments I was working on during the first semester of CS studies.
 
 **First semester courses:**
 - Introducton to programming
