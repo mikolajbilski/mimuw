@@ -1,4 +1,4 @@
-#Intruduction to programming
+# Intruduction to programming
 
 The following tasks were assigned to me for the Introduction to programming course:
 
